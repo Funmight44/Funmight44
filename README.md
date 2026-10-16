@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Funmight44.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a frontend web developer.
+- 🌱 I’m currently learning AI and Automation.
 - 💞️ I’m looking to collaborate on a project using react.
 - 📫 How to reach me: akanofunmilayo44@gmail.com.
 - 😄 Pronouns: ...
